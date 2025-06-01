@@ -31,7 +31,7 @@
 3. کلون کردن مخزن و اجرای بازی:
 
    ```bash
-   python game.py
+   python amjadi4paint.py
    ```
 
 ---
@@ -88,7 +88,7 @@ This game allows two teams, each with two players, to compete by drawing and sco
 3. Clone this repo and run:
 
    ```bash
-   python game.py
+   python amjadi4paint.py
    ```
 
 ---
