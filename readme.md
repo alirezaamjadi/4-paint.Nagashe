@@ -1,3 +1,5 @@
+![ChatGPT Image Jun 1, 2025, 04_59_00 PM](https://github.com/user-attachments/assets/516fc030-b257-4ec0-b3e2-7ad2ff42e852)
+
 
 # 🎨 4 نقاشی امتیازی (4 Nagashe Emtiaze)
 
